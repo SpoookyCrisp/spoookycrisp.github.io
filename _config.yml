@@ -83,8 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: spoookycrisp.github.io/assets/img/avatar/untitled-329.jpg
-
+avatar: https://github.com/SpoookyCrisp/spoookycrisp.github.io/blob/e0bd5ab0f99dcee524018737fe1f70557a21ac0c/assets/img/avatar/untitled-329.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true

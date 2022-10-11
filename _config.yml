@@ -44,7 +44,7 @@ social:
   email: spooky@spookysec.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/SpoookySec      # change to your twitter homepage
+    - https://twitter.com/spoookysec      # change to your twitter homepage
     - https://github.com/spoookycrisp       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username 
